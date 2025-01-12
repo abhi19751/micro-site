@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voightco/micro-site.git"
+    "url": "git+https://github.com/abhi19751/micro-site.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/voightco/micro-site/issues"
+    "url": "https://github.com/abhi19751/micro-site.git"
   },
-  "homepage": "https://github.com/voightco/micro-site#readme",
+  "homepage": "https://github.com/abhi19751/micro-site.git#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "clean-css": "^4.2.3",
